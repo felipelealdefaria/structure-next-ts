@@ -1,4 +1,4 @@
-# Initial project structure NextJs + TypeScript (Rocketseat :rocket:)
+# Initial project structure NextJs + TypeScript
 
 ## About
 
